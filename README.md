@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatsinha1710" alt="rajatsinha1710" /></a> </p>
 
-- 🔭 I’m currently working on [Colour flipper](https://github.com/rajatsinha1710/Colour-Flipper.git)
+- 🔭 I’m currently working on MERN Stack
 
-- 🌱 I’m currently learning **JavaScript, NodeJs, React**
+- 🌱 I’m currently learning **MongoDB, Express, NodeJS**
 
-- 🤝 I’m looking for help with [reviews](https://github.com/rajatsinha1710/reviews.git)
-
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **ReactJS, Front-End Development**
 
 - 📫 How to reach me **rajat.sinha1000@gmail.com**
 
