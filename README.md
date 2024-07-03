@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rajat Sinha</h1>
-<h3 align="center">A passionate Full Stack Developer based in India</h3>
+<h3 align="center">A passionate Data Enthusiast based in India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatsinha1710&label=Profile%20views&color=0e75b6&style=flat" alt="rajatsinha1710" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatsinha1710" alt="rajatsinha1710" /></a> </p>
 
-- 🔭 I’m currently working on MERN Stack
+- 🔭 I’m currently working on Data Science, Data Analytics
 
-- 🌱 I’m currently learning **MongoDB, Express, NodeJS**
+- 💬 Ask me about **Data Analytics, Ml, Data Science**
 
-- 💬 Ask me about **ReactJS, Front-End Development**
-
-- 📫 How to reach me **rajat.sinha1000@gmail.com**
+- 📫 How to reach me **rajatsinha976@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
